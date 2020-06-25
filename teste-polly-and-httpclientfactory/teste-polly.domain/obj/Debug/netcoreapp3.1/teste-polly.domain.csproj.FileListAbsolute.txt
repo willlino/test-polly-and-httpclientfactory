@@ -1,0 +1,9 @@
+C:\projetos\locais\teste-polly\teste-polly\teste-polly.domain\bin\Debug\netcoreapp3.1\teste-polly.domain.deps.json
+C:\projetos\locais\teste-polly\teste-polly\teste-polly.domain\bin\Debug\netcoreapp3.1\teste-polly.domain.dll
+C:\projetos\locais\teste-polly\teste-polly\teste-polly.domain\obj\Debug\netcoreapp3.1\teste-polly.domain.csprojAssemblyReference.cache
+C:\projetos\locais\teste-polly\teste-polly\teste-polly.domain\obj\Debug\netcoreapp3.1\teste-polly.domain.AssemblyInfoInputs.cache
+C:\projetos\locais\teste-polly\teste-polly\teste-polly.domain\obj\Debug\netcoreapp3.1\teste-polly.domain.AssemblyInfo.cs
+C:\projetos\locais\teste-polly\teste-polly\teste-polly.domain\bin\Debug\netcoreapp3.1\teste-polly.domain.pdb
+C:\projetos\locais\teste-polly\teste-polly\teste-polly.domain\obj\Debug\netcoreapp3.1\teste-polly.domain.csproj.CoreCompileInputs.cache
+C:\projetos\locais\teste-polly\teste-polly\teste-polly.domain\obj\Debug\netcoreapp3.1\teste-polly.domain.dll
+C:\projetos\locais\teste-polly\teste-polly\teste-polly.domain\obj\Debug\netcoreapp3.1\teste-polly.domain.pdb

@@ -1,0 +1,12 @@
+C:\projetos\locais\teste-polly\teste-polly\teste-polly.injection\bin\Debug\netcoreapp3.1\teste-polly.injection.deps.json
+C:\projetos\locais\teste-polly\teste-polly\teste-polly.injection\bin\Debug\netcoreapp3.1\teste-polly.injection.dll
+C:\projetos\locais\teste-polly\teste-polly\teste-polly.injection\obj\Debug\netcoreapp3.1\teste-polly.injection.csprojAssemblyReference.cache
+C:\projetos\locais\teste-polly\teste-polly\teste-polly.injection\obj\Debug\netcoreapp3.1\teste-polly.injection.AssemblyInfoInputs.cache
+C:\projetos\locais\teste-polly\teste-polly\teste-polly.injection\obj\Debug\netcoreapp3.1\teste-polly.injection.AssemblyInfo.cs
+C:\projetos\locais\teste-polly\teste-polly\teste-polly.injection\bin\Debug\netcoreapp3.1\teste-polly.domain.dll
+C:\projetos\locais\teste-polly\teste-polly\teste-polly.injection\bin\Debug\netcoreapp3.1\teste-polly.injection.pdb
+C:\projetos\locais\teste-polly\teste-polly\teste-polly.injection\bin\Debug\netcoreapp3.1\teste-polly.domain.pdb
+C:\projetos\locais\teste-polly\teste-polly\teste-polly.injection\obj\Debug\netcoreapp3.1\teste-polly.injection.csproj.CoreCompileInputs.cache
+C:\projetos\locais\teste-polly\teste-polly\teste-polly.injection\obj\Debug\netcoreapp3.1\teste-polly.injection.csproj.CopyComplete
+C:\projetos\locais\teste-polly\teste-polly\teste-polly.injection\obj\Debug\netcoreapp3.1\teste-polly.injection.dll
+C:\projetos\locais\teste-polly\teste-polly\teste-polly.injection\obj\Debug\netcoreapp3.1\teste-polly.injection.pdb
